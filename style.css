@@ -1,0 +1,36 @@
+li:hover{
+    color: aliceblue;
+    font-weight: bolder;
+    
+}
+.nav1{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+h1{
+    
+    justify-content: center;
+    display: flex;
+    position: relative;
+   
+}
+.col{
+    padding: 20px;
+    margin: 20px;
+    border: solid ;
+}
+.card
+{
+    
+    background-color: rgb(35, 166, 237);
+    margin: 10px;
+    
+    padding: 10px;
+    border-radius: 25px;
+}
+#Contact{
+    background-color: rgb(67, 187, 239);
+    width: 800px;
+    height: 350px;
+}
